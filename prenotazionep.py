@@ -1,4 +1,4 @@
-class Utente():
+class Utente(): # prima modifica
     
     def __init__(self,nome,cognome,indirizzo,cf,password,privacy,email,numero):
         self.nome = nome
